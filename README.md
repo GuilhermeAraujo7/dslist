@@ -41,10 +41,10 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/GuilhermeAraujo7/dslist
+git clone https://github.com/GuilhermeAraujo7/dslist-backend
 
 # entrar na pasta do projeto back end
-cd dslist
+cd dslist-backend
 
 # executar o projeto
 ./mvnw spring-boot:run
